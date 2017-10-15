@@ -5,4 +5,5 @@
 * [Tuples](tuples.md)
 * Collections
   * [Maps](maps.md)
+* Control Structures
 
