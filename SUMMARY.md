@@ -8,4 +8,5 @@
 * [Control Structures](control-structures.md)
   * [For Loop](for-loop.md)
   * [Case](case.md)
+  * [WhileDoWhile](whiledowhile.md)
 
