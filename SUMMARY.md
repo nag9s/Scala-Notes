@@ -9,4 +9,6 @@
   * [For Loop](for-loop.md)
   * [Case](case.md)
   * [WhileDoWhile](whiledowhile.md)
+* Functions
+  * Named Functions
 
