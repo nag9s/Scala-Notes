@@ -2,7 +2,9 @@ Tuples are ordered sets of values; you can think of tuples like records in a tab
 
 The position of the value in the tuple has some relevance, unlike the position of an element in a list. Tuples can contain objects with a mixture of data types. Also like lists, tuples are immutable data structures.
 
-
-
 ![](/assets/tupleEx.png)
+
+Note in the last example that I used the class name Tuple3; if the tuple contained four elements, I would
+
+use the class name Tuple4, and so on.
 
