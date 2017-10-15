@@ -5,6 +5,7 @@
 * [Tuples](tuples.md)
 * Collections
   * [Maps](maps.md)
-* Control Structures
+* [Control Structures](control-structures.md)
   * [For Loop](for-loop.md)
+  * [Case](case.md)
 
