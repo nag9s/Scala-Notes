@@ -8,3 +8,7 @@ Note in the last example that I used the class name Tuple3; if the tuple contain
 
 After you have created a tuple, you can access any of the fields positionally by using \_&lt;field\_no&gt;; unlike lists or arrays, which are zero-based \(meaning 0, 1, 2\), element position in a tuple is one-based \(meaning 1, 2, 3\).
 
+
+
+![](/assets/AccessingTuples.png)
+
