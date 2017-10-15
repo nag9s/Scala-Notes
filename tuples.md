@@ -4,7 +4,5 @@ The position of the value in the tuple has some relevance, unlike the position o
 
 ![](/assets/tupleEx.png)
 
-Note in the last example that I used the class name Tuple3; if the tuple contained four elements, I would
-
-use the class name Tuple4, and so on.
+Note in the last example that I used the class name Tuple3; if the tuple contained four elements, I would use the class name Tuple4, and so on.
 
