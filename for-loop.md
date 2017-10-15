@@ -8,3 +8,5 @@
 
 The yield operator can be used to implement a “for comprehension” construct, providing a powerful way of iterating over collections.
 
+![](/assets/yield.png)
+
