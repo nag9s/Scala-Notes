@@ -2,9 +2,9 @@ Tuples are ordered sets of values; you can think of tuples like records in a tab
 
 gives you a way to store a group of heterogeneous items in a container. Create a tuple by enclosing the desired elements between parentheses. This is a two element tuple:
 
-scala&gt; val d = \("Debi", 95\)
+`scala> val d = ("Debi", 95)`
 
-d: \(String, Int\) = \(Debi,95\)
+`d: (String, Int) = (Debi,95)`
 
 The position of the value in the tuple has some relevance, unlike the position of an element in a list. Tuples can contain objects with a mixture of data types. Also like lists, tuples are immutable data structures.
 
