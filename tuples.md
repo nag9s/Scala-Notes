@@ -6,8 +6,6 @@ gives you a way to store a group of heterogeneous items in a container. Create a
 
 `d: (String, Int) = (Debi,95)`
 
-
-
 `scala> case class Person(name: String)`
 
 `defined class Person`
@@ -18,7 +16,19 @@ gives you a way to store a group of heterogeneous items in a container. Create a
 
 
 
+access tuple elements using an underscore construct:
 
+scala&gt; t.\_1
+
+res1: Int = 3
+
+scala&gt; t.\_2
+
+res2: java.lang.String = Three
+
+scala&gt; t.\_3
+
+res3: Person = Person\(Al\)
 
 The position of the value in the tuple has some relevance, unlike the position of an element in a list. Tuples can contain objects with a mixture of data types. Also like lists, tuples are immutable data structures.
 
