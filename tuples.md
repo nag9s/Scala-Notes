@@ -8,13 +8,15 @@ gives you a way to store a group of heterogeneous items in a container. Create a
 
 
 
-scala&gt; case class Person\(name: String\)
+`scala> case class Person(name: String)`
 
-defined class Person
+`defined class Person`
 
-scala&gt; val t = \(3, "Three", new Person\("Al"\)\)
+`scala> val t = (3, "Three", new Person("Al"))`
 
-t: \(Int, java.lang.String, Person\) = \(3,Three,Person\(Al\)\)
+`t: (Int, java.lang.String, Person) = (3,Three,Person(Al))`
+
+
 
 
 
