@@ -6,6 +6,18 @@ gives you a way to store a group of heterogeneous items in a container. Create a
 
 `d: (String, Int) = (Debi,95)`
 
+
+
+scala&gt; case class Person\(name: String\)
+
+defined class Person
+
+scala&gt; val t = \(3, "Three", new Person\("Al"\)\)
+
+t: \(Int, java.lang.String, Person\) = \(3,Three,Person\(Al\)\)
+
+
+
 The position of the value in the tuple has some relevance, unlike the position of an element in a list. Tuples can contain objects with a mixture of data types. Also like lists, tuples are immutable data structures.
 
 ![](/assets/tupleEx.png)
