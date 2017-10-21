@@ -14,8 +14,6 @@ gives you a way to store a group of heterogeneous items in a container. Create a
 
 `t: (Int, java.lang.String, Person) = (3,Three,Person(Al))`
 
-
-
 access tuple elements using an underscore construct:
 
 scala&gt; t.\_1
@@ -43,4 +41,10 @@ After you have created a tuple, you can access any of the fields positionally by
 Tuples can be embedded in other types; for instance, it is sometimes useful to have a list of tuples or an
 
 array of tuples.
+
+
+
+A two-element tuple is an instance of the Tuple2 class, and a tuple with three elements
+
+is an instance of the Tuple3 class.
 
