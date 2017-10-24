@@ -11,5 +11,6 @@
   * [WhileDoWhile](whiledowhile.md)
 * Functions
   * Named Functions
+  * [\[Function Values\]Using Functions as Variables](function-valuesusing-functions-as-variables.md)
 * [Scala Symbols](scala-symbols.md)
 
