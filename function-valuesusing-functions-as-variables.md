@@ -8,7 +8,7 @@ You can now assign that function literal to a variable:
 
 The variable double is an instance, just like an instance of a String, Int, or other type,  but in this case, it’s an instance of a function, known as a function value. You can now  invoke double just like you’d call a method:
 
-double\(2\) // 4
+`double(2) // 4`
 
-double\(3\) // 6
+`double(3) // 6`
 
