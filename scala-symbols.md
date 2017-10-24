@@ -1,3 +1,5 @@
+https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html
+
 We can divide the operators in Scala, for the purpose of teaching, into four categories:
 
 * Keywords/reserved symbols
@@ -12,8 +14,6 @@ And let’s see some arbitrary examples:
 The exact meaning of most of these methods depends on the class they are defined on. For example, `<=` on `Int` means _“less than or equal to”_, but it might mean something else in another class. `::` in an expression is probably the method of the class `List` but it can also refer to the object of the same name \(and in a pattern it definitely does\).
 
 So, let’s discuss these categories.
-
-
 
 ## Keywords/reserved symbols {#keywordsreserved-symbols}
 
