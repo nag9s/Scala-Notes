@@ -13,4 +13,6 @@
   * Named Functions
   * [\[Function Values\]Using Functions as Variables](function-valuesusing-functions-as-variables.md)
 * [Scala Symbols](scala-symbols.md)
+* [REPL Editor Notes](repl-editor-notes.md)
+  * Paste Mode
 
