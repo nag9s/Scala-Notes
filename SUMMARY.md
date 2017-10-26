@@ -15,4 +15,5 @@
 * [Scala Symbols](scala-symbols.md)
 * [REPL Editor Notes](repl-editor-notes.md)
   * Paste Mode
+* [Statically Typed](statically-typed.md)
 
