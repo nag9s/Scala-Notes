@@ -9,7 +9,7 @@
   * [For Loop](for-loop.md)
   * [Case](case.md)
   * [WhileDoWhile](whiledowhile.md)
-* Functions
+* [Functions](functions.md)
   * Named Functions
   * [\[Function Values\]Using Functions as Variables](function-valuesusing-functions-as-variables.md)
 * [Scala Symbols](scala-symbols.md)
