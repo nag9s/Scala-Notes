@@ -10,8 +10,9 @@
   * [Case](case.md)
   * [WhileDoWhile](whiledowhile.md)
 * Functions
-  * Named Functions
+  * [Named Functions](named-functions.md)
   * [\[Function Values\]Using Functions as Variables](function-valuesusing-functions-as-variables.md)
 * [Scala Symbols](scala-symbols.md)
 * [Notes](notes.md)
+* [References](references.md)
 
