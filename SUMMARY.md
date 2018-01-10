@@ -18,5 +18,5 @@
 * [Classes](classes.md)
   * [Primary Constructor](classes/primary-constructor.md)
 * [Java vs Scala](java-vs-scala.md)
-  * Classes - Primary Constructor
+  * [Classes - Primary Constructor](java-vs-scala/classes-primary-constructor.md)
 
