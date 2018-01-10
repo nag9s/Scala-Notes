@@ -20,4 +20,5 @@
   * [Getters And Setters](classes/getters-and-setters.md)
 * [Java vs Scala](java-vs-scala.md)
   * [Classes - Primary Constructor](java-vs-scala/classes-primary-constructor.md)
+  * Scala Syntax
 
