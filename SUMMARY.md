@@ -17,6 +17,7 @@
 * [References](references.md)
 * [Classes](classes.md)
   * [Primary Constructor](classes/primary-constructor.md)
+  * [Getters And Setters](classes/getters-and-setters.md)
 * [Java vs Scala](java-vs-scala.md)
   * [Classes - Primary Constructor](java-vs-scala/classes-primary-constructor.md)
 
