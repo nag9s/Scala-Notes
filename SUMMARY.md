@@ -9,9 +9,10 @@
   * [For Loop](for-loop.md)
   * [Case](case.md)
   * [WhileDoWhile](whiledowhile.md)
-* Functions
+* [Functions](functions.md)
   * [Named Functions](named-functions.md)
   * [\[Function Values\]Using Functions as Variables](function-valuesusing-functions-as-variables.md)
+  * [Syntax](syntax.md)
 * [Scala Symbols](scala-symbols.md)
 * [Notes](notes.md)
 * [References](references.md)
@@ -20,5 +21,5 @@
   * [Getters And Setters](classes/getters-and-setters.md)
 * [Java vs Scala](java-vs-scala.md)
   * [Classes - Primary Constructor](java-vs-scala/classes-primary-constructor.md)
-  * Scala Syntax
+  * [Scala Syntax](java-vs-scala/scala-syntax.md)
 
