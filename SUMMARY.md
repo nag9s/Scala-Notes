@@ -15,4 +15,8 @@
 * [Scala Symbols](scala-symbols.md)
 * [Notes](notes.md)
 * [References](references.md)
+* [Classes](classes.md)
+  * [Primary Constructor](classes/primary-constructor.md)
+* [Java vs Scala](java-vs-scala.md)
+  * Classes - Primary Constructor
 
