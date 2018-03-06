@@ -14,6 +14,9 @@
   * [\[Function Values\]Using Functions as Variables](function-valuesusing-functions-as-variables.md)
   * [Syntax](syntax.md)
 * [Scala Symbols](scala-symbols.md)
+* [REPL Editor Notes](repl-editor-notes.md)
+  * Paste Mode
+* [Statically Typed](statically-typed.md)
 * [Notes](notes.md)
 * [References](references.md)
 * [Classes](classes.md)

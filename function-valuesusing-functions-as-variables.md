@@ -12,3 +12,13 @@ The variable double is an instance, just like an instance of a String, Int, or o
 
 `double(3) // 6`
 
+Beyond just invoking double like this, you can also pass it to any method \(or function\) that takes a function parameter with its signature.
+
+`scala> val list = List.range(1, 5)`
+
+`list: List[Int] = List(1, 2, 3, 4)`
+
+`scala> list.map(double)`
+
+`res0: List[Int] = List(2, 4, 6, 8)`
+
