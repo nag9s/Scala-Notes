@@ -13,11 +13,11 @@
   * [Named Functions](named-functions.md)
   * [\[Function Values\]Using Functions as Variables](function-valuesusing-functions-as-variables.md)
   * [Syntax](syntax.md)
+  * [Notes](notes.md)
 * [Scala Symbols](scala-symbols.md)
 * [REPL Editor Notes](repl-editor-notes.md)
   * Paste Mode
 * [Statically Typed](statically-typed.md)
-* [Notes](notes.md)
 * [References](references.md)
 * [Classes](classes.md)
   * [Primary Constructor](classes/primary-constructor.md)
