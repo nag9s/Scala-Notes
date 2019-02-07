@@ -10,5 +10,7 @@ reply\(\)
 
 reply
 
-However, this syntax should _only _be used when the method in question has no side-effects \(purely-functional\). In other words, it would be acceptable to omit parentheses when calling `queue.size `, but not when calling `println() `. This convention mirrors the method declaration convention given above.
+However, this syntax should \_only \_be used when the method in question has no side-effects \(purely-functional\). In other words, it would be acceptable to omit parentheses when calling `queue.size`, but not when calling `println()`. This convention mirrors the method declaration convention given above.
+
+https://docs.scala-lang.org/style/method-invocation.html
 
