@@ -2,8 +2,6 @@
 
 Look in the above, just not including \(\) , scala complaints about an error - missing paramater type, so , be careful with invoking functions.
 
-
-
 1. Scala allows the omission of parentheses on methods of arity-0 \(no arguments\):
 
 reply\(\)
@@ -12,19 +10,5 @@ reply\(\)
 
 reply
 
-However, this syntax should
-
-_only_
-
-be used when the method in question has no side-effects \(purely-functional\). In other words, it would be acceptable to omit parentheses when calling
-
-`queue.size`
-
-, but not when calling
-
-`println()`
-
-. This convention mirrors the method declaration convention given above.
-
-
+However, this syntax should _only _be used when the method in question has no side-effects \(purely-functional\). In other words, it would be acceptable to omit parentheses when calling `queue.size `, but not when calling `println() `. This convention mirrors the method declaration convention given above.
 
