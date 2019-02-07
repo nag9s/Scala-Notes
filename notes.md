@@ -35,7 +35,7 @@ myCounter.current\(\) // Also OK
 
 ![](/assets/param1.png)
 
-
-
 **Scala for the impatient**
+
+![](/assets/funparam1.png)
 
