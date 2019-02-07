@@ -31,9 +31,11 @@ myCounter.current\(\) // Also OK
  mutator method \(a method that changes the object state\), and to drop the \(\)  
  for an accessor method \(a method that does not change the object state\).
 
-
-
-Scala By Example
+**Scala By Example**
 
 ![](/assets/param1.png)
+
+
+
+**Scala for the impatient**
 
