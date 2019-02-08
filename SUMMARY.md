@@ -26,4 +26,5 @@
   * [Classes - Primary Constructor](java-vs-scala/classes-primary-constructor.md)
   * [Scala Syntax](java-vs-scala/scala-syntax.md)
 * [Ways To Run program](ways-to-run-program.md)
+* [Generated Java Code](generated-java-code.md)
 
