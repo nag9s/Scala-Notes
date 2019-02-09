@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [functional programming](functional-programming.md)
 * [Compiling  Running  Program](compiling-running-program.md)
 * [Tuples](tuples.md)
 * [Collections](collections.md)
@@ -27,5 +28,5 @@
   * [Classes - Primary Constructor](java-vs-scala/classes-primary-constructor.md)
   * [Scala Syntax](java-vs-scala/scala-syntax.md)
 * [Ways To Run program](ways-to-run-program.md)
-* [Generated Java Code](generated-java-code.md)
+* functional programming
 
