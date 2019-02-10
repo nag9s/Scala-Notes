@@ -16,6 +16,7 @@ What are side effects? A function has a side effect if it does something other t
 * Printing to the console or reading user input
 * Reading from or writing to a file
 * Drawing on the screen
+  ---
 
 **Functional Programming, Simplified\_ \(Scala edition\) \(2017\)**
 
@@ -42,11 +43,7 @@ In Scala the percentage of your code that’s considered impure I/O will vary,
     things. First, you wrap all of your I/O code in  unctional wrappers. Second,
     your definition of “pure function” is looser than my definition.
 
+The return values of expressions will be passed to other expressions or storedinto values.
 
-
-The return values of expressions will be passed to other expressions or storedinto values. 
-
-As you migrate from using variables, your functions and expressions willhave fewer side effects. In other words, they will purely act on the input you give themwithout affecting any data other than their return value. This is one of the main goalsand benefits of functional programming. 
-
-
+As you migrate from using variables, your functions and expressions willhave fewer side effects. In other words, they will purely act on the input you give themwithout affecting any data other than their return value. This is one of the main goalsand benefits of functional programming.
 
