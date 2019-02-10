@@ -15,8 +15,8 @@ What are side effects? A function has a side effect if it does something other t
 * Throwing an exception or halting with an error
 * Printing to the console or reading user input
 * Reading from or writing to a file
-* Drawing on the screen
-  ---
+
+## 
 
 **Functional Programming, Simplified\_ \(Scala edition\) \(2017\)**
 
